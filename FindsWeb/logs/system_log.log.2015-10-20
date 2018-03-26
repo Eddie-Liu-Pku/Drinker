@@ -1,0 +1,31 @@
+2015-10-20 15:48:14,565 [qtp1622613647-21] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring'
+2015-10-20 16:27:17,280 [qtp1688310330-20] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 1054, SQLState: 42S22
+2015-10-20 16:27:17,281 [qtp1688310330-20] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Unknown column 'taken' in 'field list'
+2015-10-20 16:27:17,282 [qtp1688310330-20] ERROR [org.hibernate.engine.jdbc.batch.internal.BatchingBatch] - HHH000315: Exception executing batch [could not execute batch]
+2015-10-20 16:28:11,891 [qtp1622613647-19] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 1054, SQLState: 42S22
+2015-10-20 16:28:11,892 [qtp1622613647-19] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Unknown column 'taken' in 'field list'
+2015-10-20 16:28:11,893 [qtp1622613647-19] ERROR [org.hibernate.engine.jdbc.batch.internal.BatchingBatch] - HHH000315: Exception executing batch [could not execute batch]
+2015-10-20 16:30:48,414 [qtp1688310330-21] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 1054, SQLState: 42S22
+2015-10-20 16:30:48,414 [qtp1688310330-21] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Unknown column 'taken' in 'field list'
+2015-10-20 16:30:48,415 [qtp1688310330-21] ERROR [org.hibernate.engine.jdbc.batch.internal.BatchingBatch] - HHH000315: Exception executing batch [could not execute batch]
+2015-10-20 17:17:08,094 [qtp530410619-19] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/LoginController/logout_get.json] in DispatcherServlet with name 'spring'
+2015-10-20 19:31:04,183 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000038: Composite-id class does not override equals(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:31:04,183 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000039: Composite-id class does not override hashCode(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:47:13,632 [qtp530410619-15] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 1054, SQLState: 42S22
+2015-10-20 19:47:13,632 [qtp530410619-15] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Unknown column 'userphoto' in 'field list'
+2015-10-20 19:47:13,634 [qtp530410619-15] ERROR [org.hibernate.engine.jdbc.batch.internal.BatchingBatch] - HHH000315: Exception executing batch [could not execute batch]
+2015-10-20 19:47:33,595 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000038: Composite-id class does not override equals(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:47:33,596 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000039: Composite-id class does not override hashCode(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:47:37,503 [qtp1622613647-14] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 0, SQLState: S1009
+2015-10-20 19:47:37,504 [qtp1622613647-14] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+2015-10-20 19:49:50,328 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000038: Composite-id class does not override equals(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:49:50,329 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000039: Composite-id class does not override hashCode(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:51:15,044 [qtp1386020581-17] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 0, SQLState: S1009
+2015-10-20 19:51:15,045 [qtp1386020581-17] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+2015-10-20 19:52:33,787 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000038: Composite-id class does not override equals(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:52:33,788 [main] WARN  [org.hibernate.mapping.RootClass] - HHH000039: Composite-id class does not override hashCode(): com.finds.entity.user.UserEntityPk
+2015-10-20 19:52:59,850 [qtp1622613647-16] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 0, SQLState: S1009
+2015-10-20 19:52:59,851 [qtp1622613647-16] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+2015-10-20 20:55:19,565 [qtp1174687658-17] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 1048, SQLState: 23000
+2015-10-20 20:55:19,565 [qtp1174687658-17] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Column 'myclass' cannot be null
+2015-10-20 20:55:19,567 [qtp1174687658-17] ERROR [org.hibernate.engine.jdbc.batch.internal.BatchingBatch] - HHH000315: Exception executing batch [could not execute batch]

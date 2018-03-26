@@ -1,0 +1,4 @@
+2015-10-22 16:43:06,143 [qtp1688770224-19] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 1064, SQLState: 42000
+2015-10-22 16:43:06,144 [qtp1688770224-19] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM lostfinds a LEFT JOIN userinfo b on  a.islost=1 and a.isget=0 and a.user_id' at line 1
+2015-10-22 17:27:30,132 [qtp1537689020-17] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 1064, SQLState: 42000
+2015-10-22 17:27:30,132 [qtp1537689020-17] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''121313545'' and a.user_id=b.id' at line 1

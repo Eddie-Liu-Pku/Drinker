@@ -1,0 +1,6 @@
+2015-09-05 11:27:11,945 [qtp621486957-22] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/LostfindsController/allfinds_get.json] in DispatcherServlet with name 'spring'
+2015-09-05 11:27:11,974 [qtp621486957-17] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring'
+2015-09-05 11:27:30,210 [qtp621486957-16] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/LostfindsController/allfinds_get.json] in DispatcherServlet with name 'spring'
+2015-09-05 11:27:30,228 [qtp621486957-22] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring'
+2015-09-05 11:27:59,186 [qtp621486957-20] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/LostfindsController/allfinds_get.json] in DispatcherServlet with name 'spring'
+2015-09-05 11:47:44,132 [qtp1015659282-20] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring'

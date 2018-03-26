@@ -1,0 +1,2 @@
+2015-09-06 10:34:02,260 [qtp307605969-16] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'spring'
+2015-09-06 10:34:02,283 [qtp307605969-22] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring'

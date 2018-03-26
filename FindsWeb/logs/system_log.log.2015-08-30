@@ -1,0 +1,4 @@
+2015-08-30 21:01:44,981 [main] WARN  [org.hibernate.engine.jdbc.internal.JdbcServicesImpl] - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Access denied for user ''@'localhost' to database 'test2')
+2015-08-30 21:02:33,804 [qtp1123166613-15] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 0, SQLState: null
+2015-08-30 21:02:33,804 [qtp1123166613-15] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Cannot create PoolableConnectionFactory (Access denied for user ''@'localhost' to database 'test2')
+2015-08-30 21:02:33,858 [qtp1123166613-17] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'spring'
